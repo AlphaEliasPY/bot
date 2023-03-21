@@ -2,7 +2,7 @@ import telegram
 from telegram.ext import Updater, MessageHandler, Filters
 
 # Token del bot
-TOKEN = 'AQUI_VA_TU_TOKEN'
+TOKEN = '889289459:AAGLSiTZiJKg4A9idIkiy5hVDETpUdPLDwo'
 
 # Creamos el objeto updater y el dispatcher
 updater = Updater(token=TOKEN, use_context=True)
